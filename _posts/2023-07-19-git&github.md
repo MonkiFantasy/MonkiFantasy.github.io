@@ -31,3 +31,14 @@ git checkout cc30c4b
 git checkout master
 ```
 
+## github 解决push相关问题（玄学）
+
+```bash
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+```
+
+```cmd
+ipconfig/flushdns
+```
+
