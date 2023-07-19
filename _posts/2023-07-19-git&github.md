@@ -1,6 +1,6 @@
 ---
 layout: article
-tags: git|github
+tags: git github
 title: "Git&Github相关指令"
 ---
 
