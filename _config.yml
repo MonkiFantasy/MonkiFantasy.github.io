@@ -34,9 +34,9 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ## => Author and Social
 ##############################
 author: MonkiFantasy
-  type      : # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : Monki
-  url       :
+  url       : 
   avatar    : # path or url of avatar image (square)
   bio       :
   email     :
