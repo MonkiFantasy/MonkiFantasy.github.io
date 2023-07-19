@@ -40,12 +40,13 @@ title: Missing-Semester
 
 ## 第9讲 - 安全和密码学
 
-<div>{%- include extensions/bilibili.html id='1148730445' -%}</div>
+<div>{%- include extensions/bilibili.html id='314297208' -%}</div>
 
 ## 第10讲 - 大杂烩
 
-<div>{%- include extensions/bilibili.html id='1148734960' -%}</div>
+<div>{%- include extensions/bilibili.html id='271770049' -%}</div>
 
 ## 第11讲 - 提问&回答
 
 <div>{%- include extensions/bilibili.html id='314291946' -%}</div>
+
