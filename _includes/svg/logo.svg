@@ -1,8 +1,1 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
-</svg>
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1689779905397" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2804" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M51.2 0h716.8a256 256 0 0 1 256 256v716.8a51.2 51.2 0 0 1-51.2 51.2H256A256 256 0 0 1 0 768V51.2a51.2 51.2 0 0 1 51.2-51.2z" fill="#F5AD30" p-id="2805"></path><path d="M140.8 435.2m51.2 0l640 0q51.2 0 51.2 51.2l0 320q0 51.2-51.2 51.2l-640 0q-51.2 0-51.2-51.2l0-320q0-51.2 51.2-51.2Z" fill="#FFFFFF" p-id="2806"></path><path d="M192 179.2h435.2a128 128 0 0 1 128 128v192a51.2 51.2 0 0 1-51.2 51.2h-512a51.2 51.2 0 0 1-51.2-51.2v-268.8a51.2 51.2 0 0 1 51.2-51.2z" fill="#FFFFFF" p-id="2807"></path><path d="M256 281.6m38.4 0l204.8 0q38.4 0 38.4 38.4l0 0q0 38.4-38.4 38.4l-204.8 0q-38.4 0-38.4-38.4l0 0q0-38.4 38.4-38.4Z" fill="#F5AD30" p-id="2808"></path><path d="M256 486.4m38.4 0l128 0q38.4 0 38.4 38.4l0 0q0 38.4-38.4 38.4l-128 0q-38.4 0-38.4-38.4l0 0q0-38.4 38.4-38.4Z" fill="#F5AD30" p-id="2809"></path><path d="M256 678.4m38.4 0l371.2 0q38.4 0 38.4 38.4l0 0q0 38.4-38.4 38.4l-371.2 0q-38.4 0-38.4-38.4l0 0q0-38.4 38.4-38.4Z" fill="#F5AD30" p-id="2810"></path></svg>
