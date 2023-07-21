@@ -1,6 +1,6 @@
 ---
 type: article
-tag: termux linux 
+tags: termux linux 
 title: Linux&termux使用相关
 ---
 
